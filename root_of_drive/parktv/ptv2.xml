@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Settings>
+	<GFS>
+		<Path>J:\Shared Drives\ParkTV\ParkTV-100-Houston</Path>
+	</GFS>
+	<VLC>
+		<Args>C:\Users\parktv\Videos\parktv\ --intf=dummy -I dummy --fullscreen --no-mouse-events --random --no-osd --qt-continue=0 --video-on-top --disable-screensaver --image-duration=20 --one-instance --playlist-enqueue</Args>
+	</VLC>
+</Settings>
